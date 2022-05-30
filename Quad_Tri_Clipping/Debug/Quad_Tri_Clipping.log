@@ -1,3 +1,4 @@
-﻿  pch.cpp
-  Quad_Tri_Clipping.cpp
-  Quad_Tri_Clipping.vcxproj -> E:\01_Personal_Projects\Cpp_Projects\Quad_Tri_Clipping\Quad_Tri_Clipping\Debug\Quad_Tri_Clipping.exe
+﻿  main.cpp
+  utils.cpp
+e:\01_personal_projects\cpp_projects\quad_tri_clipping\quad_tri_clipping\utils.cpp(8): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Generating Code...

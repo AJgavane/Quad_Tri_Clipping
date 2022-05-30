@@ -1,7 +1,13 @@
+#pragma once
 #include "pch.h"
-#include <iostream>
+#include "utils.h"
+#include "Tests.h"
+//using namespace  std;
 
 int main()
 {
-    std::cout << "Hello World!\n"; 
+	cout << "Finding clipped Quad against clipping Triangle" << endl;
+	//Test1();
+	Test2();
+	
 }

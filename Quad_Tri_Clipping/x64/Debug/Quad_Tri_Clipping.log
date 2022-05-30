@@ -1,0 +1,31 @@
+﻿  Tests.cpp
+  main.cpp
+  utils.cpp
+e:\01_personal_projects\cpp_projects\quad_tri_clipping\quad_tri_clipping\utils.cpp(14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+e:\01_personal_projects\cpp_projects\quad_tri_clipping\quad_tri_clipping\utils.cpp(21): warning C4244: 'argument': conversion from 'T' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              T=float
+          ]
+e:\01_personal_projects\cpp_projects\quad_tri_clipping\quad_tri_clipping\utils.cpp(23): warning C4244: 'argument': conversion from 'T' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              T=float
+          ]
+e:\01_personal_projects\cpp_projects\quad_tri_clipping\quad_tri_clipping\utils.cpp(25): warning C4244: 'argument': conversion from 'T' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              T=float
+          ]
+e:\01_personal_projects\cpp_projects\quad_tri_clipping\quad_tri_clipping\utils.cpp(31): warning C4244: 'argument': conversion from 'T' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              T=float
+          ]
+e:\01_personal_projects\cpp_projects\quad_tri_clipping\quad_tri_clipping\utils.cpp(33): warning C4244: 'argument': conversion from 'T' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Generating Code...
+  Quad_Tri_Clipping.vcxproj -> E:\01_Personal_Projects\Cpp_Projects\Quad_Tri_Clipping\Quad_Tri_Clipping\x64\Debug\Quad_Tri_Clipping.exe
